@@ -1,0 +1,32 @@
+table,th,td{
+    color: white;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 2px white;
+    margin-bottom: auto;
+}
+.container{
+    color: white;
+    font-family: cursive;
+    color: white;
+}
+h3{
+    font-family: fantasy;
+    color: white;
+    text-align: center;
+}
+.custom-audio {
+    width: 300px; 
+    margin: 20px;
+  }
+  
+  .custom-audio controls {
+    background-color: lightslategray;
+    border-radius: 5px;
+    padding: 10px;
+  }
+
+  .custom-audio:hover {
+    background-color: white;
+  }

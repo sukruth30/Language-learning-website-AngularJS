@@ -1,0 +1,47 @@
+header {
+    background-color: #3498db;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    font-family: fantasy;
+}
+
+.container {
+    width: 80%;
+    margin: 20px auto;
+    color: white;
+    font-family: cursive;
+}
+
+h2 {
+    color: #3498db;
+
+}
+
+p {
+    line-height: 1.6;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li::before {
+    content: '\2022'; /* Bullet point */
+    color: #3498db;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
+}
+.container-fluid{
+    margin: auto;
+    text-align: center;
+    font-family: fantasy;
+    color: black;
+    border: solid black;
+    border-radius: 20px;
+    display: block;
+    background-color: lightslategray;
+}
+

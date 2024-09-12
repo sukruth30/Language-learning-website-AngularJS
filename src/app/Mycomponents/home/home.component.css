@@ -1,0 +1,66 @@
+.container{
+    border-radius: 10px;
+    border: solid;
+    text-align: left;
+    font-family: cursive;
+    color: white;
+    font-size: xx-large;
+}
+h1{
+    margin: auto;
+    text-align: center;
+    font-family: fantasy;
+    color: white;
+}
+.carousel-inner{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.container-fluid{
+    margin: auto;
+    text-align: center;
+    font-family: fantasy;
+    color: black;
+    border: solid black;
+    border-radius: 20px;
+    display: block;
+    background-color: lightslategray;
+}
+body{
+    background: #000;
+}
+img{
+    width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+img:hover{
+    transform: scale(1.05);
+}
+.carousel-item{
+    width: 80%;
+    margin-left: 100px;
+    margin-right: auto;
+}
+.get-started{
+    text-align: center;
+    color: white;
+    font-family: fantasy;
+}
+.started{
+    border: solid;
+    border-radius: 10px;
+    width: 150px;
+    height: 50px;
+    font-family: cursive;
+    background-color: lightslategrey;
+}
+.started:hover{
+    transform: scale(1.05);
+    box-shadow: 0 0 10px 5px rgba(255, 255, 255, 0.4),
+    0 0 20px 10px rgba(255, 255, 255, 0.3),
+    0 0 30px 20px rgba(255, 255, 255, 0.2),
+    0 0 40px 30px rgba(255, 255, 255, 0.1);;
+}

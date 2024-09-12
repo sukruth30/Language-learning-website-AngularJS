@@ -1,0 +1,28 @@
+h1{
+    margin: auto;
+    text-align: center;
+    font-family: fantasy;
+    color: white;
+}
+.container-fluid{
+    margin: auto;
+    text-align: center;
+    font-family: fantasy;
+    color: black;
+    border: solid black;
+    border-radius: 20px;
+    display: block;
+    background-color: lightslategray;
+}
+.container{
+    margin: auto;
+    text-align: center;
+    border: solid 2px white;
+    border-radius: 20px;
+    display: block;
+    color: white;
+}
+h2{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
